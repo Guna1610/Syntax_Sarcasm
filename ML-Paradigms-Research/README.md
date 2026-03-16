@@ -16,7 +16,7 @@ This research explores:
 📄 Full Research Report:  
 [Supervised and Unsupervised Learning](Supervised%20And%20Unsupervised%20Learning.pdf)
 
-The report explains how these paradigms differ in **data requirements, objectives, and practical usage in real-world systems**. :contentReference[oaicite:0]{index=0}
+The report explains how these paradigms differ in **data requirements, objectives, and practical usage in real-world systems**.
 
 ---
 
