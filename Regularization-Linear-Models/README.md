@@ -227,7 +227,6 @@ Through this project, the following concepts were explored:
 # Files Included
 
 Regularization-Linear-Models
-│
 ├── Assignment-2.ipynb
 ├── Assignment-2.pdf
 └── README.md
